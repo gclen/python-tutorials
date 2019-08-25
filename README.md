@@ -9,3 +9,4 @@ A collection of various blog posts/tutorials I wrote for colleagues.
 * [Using pythons logging module](tutorials/logging.md)
 * [Parallelizing your code using concurrent.futures](tutorials/intro_to_parallel_processing.md)
 * [Packaging your code so it can be pip installed](tutorials/packaging.md)
+* [Testing your code with pytest](tutorials/unit_testing_with_pytest.md)
